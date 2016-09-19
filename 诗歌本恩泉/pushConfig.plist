@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   pushConfig.plist
+   诗歌本恩泉
+
+   Created by Ru on 23/7/16.
+   Copyright (c) 2016年 Ru. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>CHANNEL</key>
+        <string>App Store</string>
+        <key>APS_FOR_PRODUCTION</key>
+        <string>0</string>
+        <key>APP_KEY</key>
+        <string>1161c245d8a09b09583a493a</string>
+    </dict>
+</plist>

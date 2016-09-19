@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>赞美诗歌1218.jpg</string>
+		<key>name</key>
+		<string>赞美诗歌1218</string>
+		<key>url</key>
+		<string>https://gepu-10041321.file.myqcloud.com/赞美诗歌1218.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>赞美诗选编1050.jpg</string>
+		<key>name</key>
+		<string>赞美诗选编1050</string>
+		<key>url</key>
+		<string>http://gepu-10041321.file.myqcloud.com/赞美诗选编1050.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>赞美诗歌1300.jpg</string>
+		<key>name</key>
+		<string>赞美诗歌1300</string>
+		<key>url</key>
+		<string>https://gepu-10041321.file.myqcloud.com/赞美诗歌1300.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>新编赞美诗.jpg</string>
+		<key>name</key>
+		<string>新编赞美诗</string>
+		<key>url</key>
+		<string>https://gepu-10041321.file.myqcloud.com/新编赞美诗.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>恩泉佳音.jpg</string>
+		<key>name</key>
+		<string>恩泉佳音续一</string>
+		<key>url</key>
+		<string>http://gepu-10041321.file.myqcloud.com/恩泉佳音续一.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>恩泉佳音.jpg</string>
+		<key>name</key>
+		<string>恩泉佳音续二</string>
+		<key>url</key>
+		<string>https://gepu-10041321.file.myqcloud.com/恩泉佳音续二.zip</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>恩泉佳音.jpg</string>
+		<key>name</key>
+		<string>恩泉佳音续三</string>
+		<key>url</key>
+		<string>http://gepu-10041321.file.myqcloud.com/恩泉佳音续三.zip</string>
+	</dict>
+</array>
+</plist>
